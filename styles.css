@@ -1,0 +1,62 @@
+body{
+    background-color:lightyellow;
+}
+
+#header{
+    font-family: serif;
+}
+
+#firstpara{
+    color: green;
+    background-color: yellow;
+}
+
+#secondpara{
+    color:red;
+}
+
+#thirdpara{
+    color:blue;
+    background-color: yellow;
+}
+
+#fourthpara{
+    color:red;
+    text-align: center;
+}
+
+#fifthpara{
+    color:blue;
+    background-color: yellow;
+}
+
+#F{
+    color:aqua;
+}
+
+#GL{
+    color:darkred;
+    background-color: yellow;
+}
+
+#TY{
+    color:aqua;
+}
+
+#sixthpara{
+    color:blue;
+}
+
+#BBR{
+    color:purple;
+}
+
+#seventhpara{
+    color:red;
+}
+
+#eighthpara{
+    color:red;
+}
+
+
